@@ -1,0 +1,4 @@
+touch knight.c
+nano knight.c
+gcc knight.c -o knight
+./knight
